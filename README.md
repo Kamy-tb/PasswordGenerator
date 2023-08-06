@@ -1,3 +1,7 @@
+# The view
+![react-random-password-generator](https://github.com/Kamy-tb/PasswordGenerator/assets/77978295/207eecf1-281d-4d61-97bd-6b694a08d2cb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
